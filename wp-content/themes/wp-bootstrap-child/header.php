@@ -29,8 +29,10 @@
 
 <body <?php body_class(); ?>>
 
+    <!-- Facebook Javascript SDK -->
     <div id="fb-root"></div>
-    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v10.0" nonce="VayEj9sI"></script>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v10.0" nonce="lHTH1ysr"></script>
+    <!-- / Facebook Javascript SDK -->
 
     <?php
 
